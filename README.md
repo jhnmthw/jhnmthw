@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 ### What am I reading now?
 <!-- GOODREADS-LIST:START -->
 - [Threat Hunting with Elastic Stack](https://www.goodreads.com/review/show/4822127383?utm_medium=api&utm_source=rss) by Andrew Pease (⭐️5)
-- [Hacking: The Art of Exploitation, 2nd Edition by Jon Erickson, No Starch Press](https://www.goodreads.com/review/show/4480088914?utm_medium=api&utm_source=rss) by Jon Erickson (⭐️4.5)
 - [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/review/show/3181155574?utm_medium=api&utm_source=rss) by Larry Bossidy (⭐️4.35)
+- [Hacking: The Art of Exploitation, 2nd Edition by Jon Erickson, No Starch Press](https://www.goodreads.com/review/show/4480088914?utm_medium=api&utm_source=rss) by Jon Erickson (⭐️4.5)
 <!-- GOODREADS-LIST:END -->
