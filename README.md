@@ -9,10 +9,11 @@ jhnmthw/jhnmthw is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhnmthw)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhnmthw&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnmthw)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnmthw&langs_count=8)
+--->
 
 ### What am I reading now?
 <!-- GOODREADS-LIST:START -->
