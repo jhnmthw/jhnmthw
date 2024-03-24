@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ### What am I reading now?
 <!-- GOODREADS-LIST:START -->
-- [Create An Impact: Achieve Peace Inside, Results Outside](https://www.goodreads.com/review/show/6191228968?utm_medium=api&utm_source=rss) by Jeet Kumar (⭐️5)
 - [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/review/show/3181155574?utm_medium=api&utm_source=rss) by Larry Bossidy (⭐️4.3)
 - [Hacking: The Art of Exploitation](https://www.goodreads.com/review/show/4480088914?utm_medium=api&utm_source=rss) by Jon Erickson (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
