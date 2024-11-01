@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ### What am I reading now?
 <!-- GOODREADS-LIST:START -->
 - [Ikigai: The Japanese secret to a long and happy life](https://www.goodreads.com/review/show/6767237944?utm_medium=api&utm_source=rss) by Héctor  García (⭐️4.1)
-- [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/review/show/3181155574?utm_medium=api&utm_source=rss) by Larry Bossidy (⭐️4.27)
+- [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/review/show/3181155574?utm_medium=api&utm_source=rss) by Larry Bossidy (⭐️4.28)
 - [Hacking: The Art of Exploitation](https://www.goodreads.com/review/show/4480088914?utm_medium=api&utm_source=rss) by Jon Erickson (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
