@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ### What am I reading now?
 <!-- GOODREADS-LIST:START -->
 - [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/review/show/4974286394?utm_medium=api&utm_source=rss) by James Clear (⭐️4.46)
-- [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/review/show/3181155574?utm_medium=api&utm_source=rss) by Larry Bossidy (⭐️4.29)
+- [Execution: The Discipline of Getting Things Done](https://www.goodreads.com/review/show/3181155574?utm_medium=api&utm_source=rss) by Larry Bossidy (⭐️4.28)
 - [Hacking: The Art of Exploitation](https://www.goodreads.com/review/show/4480088914?utm_medium=api&utm_source=rss) by Jon Erickson (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
